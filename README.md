@@ -59,12 +59,6 @@ The platform provides a complete online shopping experience including authentica
 - JWT Authentication
 - bcryptjs
 
-### Deployment
-
-- Frontend: Vercel
-- Backend: Render
-- Database: MongoDB Atlas
-
 ---
 
 ## 📸 Screenshots
